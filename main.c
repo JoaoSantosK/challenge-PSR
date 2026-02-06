@@ -46,10 +46,10 @@ int main()
                     }else if(strcmp(player2,"pedra") == 0){
                         printf("Empate!");
                     }else{
-                        printf("Player2 jogou uma informacao invalida!");
+                        printf("Player2 jogou uma informação inválida!");
                     }
     }else{
-        printf("Voce jogou uma informacao invalida!");
+        printf("Voce jogou uma informação inválida!");
     }
 
 
